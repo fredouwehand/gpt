@@ -1,0 +1,7 @@
+name: gpt
+dependencies:
+  - python=3
+  - pytorch
+  - numpy
+  - pandas
+  - jupyterlab
